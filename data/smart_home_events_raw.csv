@@ -1,0 +1,7 @@
+time,room,temperature,light,motion,door,controller_mode
+2026-10-21T18:40:00,kitchen,22.4,320,true,closed,home
+2026-10-21T18:41:00,hall,21.1,140,false,open,home
+2026-10-21T18:42:00,bedroom,27.8,45,false,closed,home
+2026-10-21T18:43:00,living_room,23.0,260,true,closed,home
+2026-10-21T18:44:00,hall,20.7,90,false,open,away
+2026-10-21T18:45:00,bedroom,26.2,30,false,closed,night
